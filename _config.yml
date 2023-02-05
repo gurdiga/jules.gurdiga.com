@@ -1,12 +1,14 @@
-title: "Maximize Your Potential: A Performance Coaching Blog"
+title: "Maximizeaza-ti Potentialul"
 email: your-email@example.com
 description: >-
-  “Maximize Your Potential” is a comprehensive performance coaching blog
-  designed to help individuals achieve their full potential in all areas of
-  life. Our team of expert coaches provides practical advice, tips, and
-  inspiration to help individuals boost their productivity, build healthy
-  habits, and overcome obstacles on the path to success. Join us on this
-  journey to unleash your full potential and achieve your goals.
+  "Maximizeaza-ti Potentialul" este un blog comprehensiv de coaching de
+  performanta conceput pentru a ajuta persoanele sa isi atinga potentialul lor
+  maxim in toate aspectele vietii. Echipa noastra de antrenori expert ofera
+  sfaturi practice, sfaturi si inspiratie pentru a ajuta persoanele sa isi
+  sporeasca productivitatea, sa construiasca obiceiuri sanatoase si sa
+  depaseasca obstacolele pe drumul catre succes. Alatura-te noua in aceasta
+  calatorie pentru a-ti elibera potentialul tau complet si a-ti atinge
+  obiectivele.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
