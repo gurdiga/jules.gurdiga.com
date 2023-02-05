@@ -11,5 +11,5 @@ permalink: /
 - Tehnici si strategii pentru depasirea obstacolelor si maximizeaza productivitatea
 - Suport in crearea si implementarea unui plan de actiune comprehensive pentru succes
 - Verificari regulate si raspundere pentru a urmari progresul si a face ajustari atunci cand este necesar
-- - Acces la un retea de persoane cu aceleasi aspiratii si o comunitate de sustinere
+- Acces la un retea de persoane cu aceleasi aspiratii si o comunitate de sustinere
 - Oportunitati continue de educatie si formare pentru a fi la curent cu cele mai recente tehnici si instrumente de coaching de performanta.
